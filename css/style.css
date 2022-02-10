@@ -97,6 +97,7 @@ h1{
     color:rgb(115, 121, 120);
     opacity: 1.0;
 }
+/*Education Section Start*/
 #education{
     display:flex;
     flex-direction:column;
@@ -119,8 +120,6 @@ h1{
     background-color:rgba(255,255,255,0.1);
     border-radius:20px;
     margin:10px;
-   
-   
 }
 .box h2{
     color:white;
@@ -133,6 +132,34 @@ h1{
     color:white;
     font-size:1.2rem;
 }
+/*Education Section End*/
+/*My Work Section Start*/
+#project {
+    height:480px;
+    width:80%;
+    margin-left:10%;    
+}
+h1{
+    font-weight:10px;
+    letter-spacing:6px;
+    font-size: 40px;
+    color:white;
+    text-align: center;
+}
+#div1 {
+    display: inline-block;
+    width:45%;
+    height:300px;
+    margin-left:2%;
+}
+#div2{
+    display: inline-block;
+    width:45%;
+    height:300px;
+    margin-left:2%;
+    margin-top:3%;
+}   
+/*My Work Section End*/
 #location{
     display:flex;
     flex-direction:column;
