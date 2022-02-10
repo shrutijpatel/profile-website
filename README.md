@@ -1,2 +1,2 @@
 # profile-website
-My simple profile website.
+My profile website.
